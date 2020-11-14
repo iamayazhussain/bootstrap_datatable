@@ -72,8 +72,8 @@ class Bootstraptab extends Component {
       lastPage: "Last",
     };
     return (
-      <div className="container">
-        <div class="row" className="hdr">
+      <div className="container" style={{ marginTop: 50 }}>
+      <div class="row" className="hdr">
           <div class="col-sm-12 btn btn-info">
             React Bootstrap Table with Searching and Custom Pagination
           </div>
